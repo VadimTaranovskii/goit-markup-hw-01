@@ -1,0 +1,38 @@
+body {
+    background-color: #fff;
+    color: #757575;
+}
+ul {
+    list-style: none;
+}
+    /* чорний колір тексту 212121 */
+    /* сірий колір тексту 757575 */
+    /* синій колір тексту 2196F3 */
+    /* білий колір тексту FFFFFF */
+    /* адреса знизу color: rgba(255, 255, 255, 0.6); */
+.logo {
+    color: #000000;
+}
+
+/* site nav*/
+
+.site-nav .link {
+    color: #212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196F3;
+}
+
+.section-title {
+    color: #212121;
+}
+
+.work-title {
+    color: #000000;
+}
+/* HERO */
+.hero-title {
+    color: #2196F3;
+}
